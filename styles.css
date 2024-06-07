@@ -1,0 +1,30 @@
+.navbar{
+    width: 90%;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid black;
+    
+}
+
+.dv0{
+    width: 90%;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.dv01{
+    border: 1px solid black;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.dv02{
+    border: 1px solid black;
+    width: 50%;
+}
